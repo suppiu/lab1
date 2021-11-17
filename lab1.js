@@ -86,9 +86,6 @@ return Math.floor(num / (sum/3));
 }
 
 module.exports = {
-    firstName: "Haolei", 
-    lastName: "Wang", 
-    studentId: "10472530",
     questionOne,
     questionTwo,
     questionThree,
